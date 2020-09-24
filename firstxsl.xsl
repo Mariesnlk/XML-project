@@ -18,6 +18,7 @@
                         <th>WWW</th>
                     </tr>
                     <xsl:for-each select="employees/employee">
+                        <xsl:sort select="last_name"/>
                         <tr>
                             <td>
                                 <xsl:value-of select="last_name"/>
