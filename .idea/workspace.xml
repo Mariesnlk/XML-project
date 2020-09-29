@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/firstxml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/firstxsl.xsl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstxsl.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/firstxsl.xsl" afterDir="false" />
     </list>
@@ -26,6 +28,11 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Марія\WebstormProjects\XML-project" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +46,11 @@
       <workItem from="1600934937438" duration="4340000" />
       <workItem from="1600941657895" duration="2623000" />
       <workItem from="1600944404773" duration="346000" />
-      <workItem from="1600945275744" duration="144000" />
+      <workItem from="1600945275744" duration="197000" />
+      <workItem from="1600946393912" duration="700000" />
+      <workItem from="1600970553499" duration="17000" />
+      <workItem from="1601311372435" duration="3291000" />
+      <workItem from="1601372661801" duration="4065000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -55,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600944999381</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added sorting last name">
+      <created>1600945452681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600945452681</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,24 +82,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added files" />
     <MESSAGE value="added new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new files" />
+    <MESSAGE value="added sorting last name" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sorting last name" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1600944998893">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1600945451993">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1600944998893" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1600945451993" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1600944639395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600944639395" />
+    <state x="417" y="43" key="RollbackChangesDialog" timestamp="1601379621946">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="417" y="43" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601379621946" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1599645066206">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599645066206" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1600945114168">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1600945458089">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600945114168" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600945458089" />
   </component>
 </project>
