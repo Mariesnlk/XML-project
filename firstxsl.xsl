@@ -23,7 +23,7 @@
                         <xsl:sort select="last_name"/>
                         <tr>
                             <td>
-                                <xsl:value-of select="last_name"/>
+                                <span style="font-style:italic;"><xsl:value-of select="last_name"/></span>
                                 <xsl:text> </xsl:text>
                                 <xsl:value-of select="first_name"/>
                                 <xsl:text> </xsl:text>
