@@ -13,6 +13,7 @@
         <address>02002, Kyiv,Ukraine</address>
         <e-mail>mariesnlk90@gmail.com</e-mail>
         <url>
+            <!--this url has always http 400 error-->
             <a href="https://www.linkedin.com/in/mariia-synelnyk-6815601a0/">
                 https://www.linkedin.com/in/mariia-synelnyk-6815601a0/
             </a>
@@ -28,7 +29,7 @@
         <salary>20000 uah</salary>
         <address>02002, Kyiv,Ukraine</address>
         <e-mail>oleksiyKor@gmail.com</e-mail>
-        <url> </url>
+        <url></url>
     </employee>
 
     <employee>
@@ -40,7 +41,7 @@
         <salary>15000 uah</salary>
         <address>03015, Kyiv,Ukraine</address>
         <e-mail>melnykoleg89@gmail.com</e-mail>
-        <url> </url>
+        <url></url>
     </employee>
 
     <employee>
@@ -53,8 +54,8 @@
         <address>01004, Kyiv,Ukraine</address>
         <e-mail>veronika.babii@ukma.edu.ua</e-mail>
         <url>
-            <a href="https://www.linkedin.com/in/veronika-babii-343b811ab/">
-                https://www.linkedin.com/in/veronika-babii-343b811ab/
+            <a href="https://www.google.com.ua/?hl=ru">
+                https://www.google.com.ua/?hl=ru
             </a>
         </url>
     </employee>
@@ -68,7 +69,7 @@
         <salary>15000 uah</salary>
         <address>12012, Kyiv,Ukraine</address>
         <e-mail>margochemer0200@gmail.com</e-mail>
-        <url> </url>
+        <url></url>
     </employee>
 </employees>
 

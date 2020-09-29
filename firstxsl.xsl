@@ -2,11 +2,6 @@
 
     <xsl:template match="/">
         <HTML>
-            <head>
-                <title>
-                    <xsl:text> Employees </xsl:text>
-                </title>
-            </head>
             <body>
                 <h2>
                     <span style="color:#ff0000; font-weight:bold">ЗАРПЛАТИ СПІВРОБІТНИКІВ</span>
