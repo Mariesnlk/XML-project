@@ -36,7 +36,9 @@
                     <xsl:apply-templates select="e-mail"/>
                 </th>
                 <th>
-                    <xsl:apply-templates select="web_address"/>
+                    <a href="{url}">
+                        <xsl:value-of select="url"/>
+                    </a>
                 </th>
 
             </tr>
@@ -66,7 +68,7 @@
         <xsl:value-of select="."/>
     </xsl:template>
 
-    <xsl:template match="web_address">
+    <xsl:template match="url">
         <span style="color:#008080; font-weight:bold">WWW</span>
         <xsl:value-of select="."/>
     </xsl:template>
