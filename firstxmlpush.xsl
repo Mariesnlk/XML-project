@@ -31,9 +31,17 @@
                     <xsl:apply-templates select="e-mail"/>
                 </th>
                 <th>
-                    <a href="{url}">
+                    <!--first way adding link-->
+<!--                    <a href="{url}">-->
+<!--                        <xsl:value-of select="url"/>-->
+<!--                    </a>-->
+                    <!--second way adding link-->
+                    <xsl:element name="a">
+                        <xsl:attribute name="href">
+                            <xsl:value-of select="url"/>
+                        </xsl:attribute>
                         <xsl:value-of select="url"/>
-                    </a>
+                    </xsl:element>
                 </th>
             </tr>
         </table>
