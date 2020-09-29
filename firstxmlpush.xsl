@@ -2,11 +2,6 @@
 
     <xsl:template match="/">
         <html>
-            <head>
-                <title>
-                    <xsl:text> Employees </xsl:text>
-                </title>
-            </head>
             <body>
                 <h2>
                     <span style="color:#ff0000; font-weight:bold">ЗАРПЛАТИ СПІВРОБІТНИКІВ</span>
@@ -40,10 +35,8 @@
                         <xsl:value-of select="url"/>
                     </a>
                 </th>
-
             </tr>
         </table>
-        >
     </xsl:template>
 
     <xsl:template match="last_name">
@@ -72,6 +65,5 @@
         <span style="color:#008080; font-weight:bold">WWW</span>
         <xsl:value-of select="."/>
     </xsl:template>
-
 
 </xsl:stylesheet>

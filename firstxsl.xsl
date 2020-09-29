@@ -8,17 +8,29 @@
                 </h2>
                 <table border="1">
                     <tr>
-                        <th><span style="color:#008080; font-weight:bold">ПІБ</span></th>
-                        <th><span style="color:#008080; font-weight:bold">Підрозділ</span></th>
-                        <th><span style="color:#008080; font-weight:bold">Зарплата</span></th>
-                        <th><span style="color:#008080; font-weight:bold">E-mail</span></th>
-                        <th><span style="color:#008080; font-weight:bold">WWW</span></th>
+                        <th>
+                            <span style="color:#008080; font-weight:bold">ПІБ</span>
+                        </th>
+                        <th>
+                            <span style="color:#008080; font-weight:bold">Підрозділ</span>
+                        </th>
+                        <th>
+                            <span style="color:#008080; font-weight:bold">Зарплата</span>
+                        </th>
+                        <th>
+                            <span style="color:#008080; font-weight:bold">E-mail</span>
+                        </th>
+                        <th>
+                            <span style="color:#008080; font-weight:bold">WWW</span>
+                        </th>
                     </tr>
                     <xsl:for-each select="employees/employee">
                         <xsl:sort select="last_name"/>
                         <tr>
                             <td>
-                                <span style="font-style:italic"><xsl:value-of select="last_name"/></span>
+                                <span style="font-style:italic">
+                                    <xsl:value-of select="last_name"/>
+                                </span>
                                 <xsl:text> </xsl:text>
                                 <xsl:value-of select="first_name"/>
                                 <xsl:text> </xsl:text>
@@ -35,9 +47,17 @@
                                 <xsl:value-of select="e-mail"/>
                             </td>
                             <td>
+                                <!--first way adding link-->
                                 <a href="{url}">
                                     <xsl:value-of select="url"/>
                                 </a>
+                                <!--second way adding link-->
+                                <!--                                <xsl:element name="a">-->
+                                <!--                                    <xsl:attribute name="href">-->
+                                <!--                                        <xsl:value-of select="url"/>-->
+                                <!--                                    </xsl:attribute>-->
+                                <!--                                    <xsl:value-of select="url"/>-->
+                                <!--                                </xsl:element>-->
                             </td>
                         </tr>
                     </xsl:for-each>

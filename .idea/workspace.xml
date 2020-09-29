@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstxmlpush.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstxmlpush.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstxmlpush.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/firstxmlpush.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstxsl.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/firstxsl.xsl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <workItem from="1600946393912" duration="700000" />
       <workItem from="1600970553499" duration="17000" />
       <workItem from="1601311372435" duration="3291000" />
-      <workItem from="1601372661801" duration="14534000" />
+      <workItem from="1601372661801" duration="16703000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601392518361</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added correct url link to firstxmlpush.xml like this href=&quot;{}&quot;">
+      <created>1601394727463</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601394727463</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,13 +121,14 @@
     <MESSAGE value="added font-weight" />
     <MESSAGE value="added url link like this href=&quot;{}&quot;" />
     <MESSAGE value="added correct url link like this href=&quot;{}&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added correct url link like this href=&quot;{}&quot;" />
+    <MESSAGE value="added correct url link to firstxmlpush.xml like this href=&quot;{}&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added correct url link to firstxmlpush.xml like this href=&quot;{}&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601392517852">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601394726899">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601392517852" />
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601394726899" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1600944639395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -133,9 +141,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599645066206" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601392525169">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601394738843">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601392525169" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601394738843" />
   </component>
 </project>
