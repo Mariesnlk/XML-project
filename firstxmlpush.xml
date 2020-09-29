@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<?xml-stylesheet type="text/xsl" href="firstxsl.xsl"?>
+<?xml-stylesheet type="text/xsl" href="firstxslpush.xsl"?>
 
 <employees>
 
-    <employee>
+    <employee url="https://www.linkedin.com/in/mariia-synelnyk-6815601a0/">
         <last_name>Синельник</last_name>
         <first_name>Марія</first_name>
         <second_name>Сергіївна</second_name>
@@ -12,11 +12,10 @@
         <salary>20000 uah</salary>
         <address>02002, Kyiv,Ukraine</address>
         <e-mail>mariesnlk90@gmail.com</e-mail>
-        <url>
-            <a href="https://www.linkedin.com/in/mariia-synelnyk-6815601a0/">
-                https://www.linkedin.com/in/mariia-synelnyk-6815601a0/
-            </a>
-        </url>
+        <web_address>
+            <a href="https://www.linkedin.com/in/mariia-synelnyk-6815601a0/"></a>
+            Link
+        </web_address>
     </employee>
 
     <employee>
@@ -28,7 +27,7 @@
         <salary>20000 uah</salary>
         <address>02002, Kyiv,Ukraine</address>
         <e-mail>oleksiyKor@gmail.com</e-mail>
-        <url> </url>
+        <web_address>-</web_address>
     </employee>
 
     <employee>
@@ -40,10 +39,10 @@
         <salary>15000 uah</salary>
         <address>03015, Kyiv,Ukraine</address>
         <e-mail>melnykoleg89@gmail.com</e-mail>
-        <url> </url>
+        <web_address>-</web_address>
     </employee>
 
-    <employee>
+    <employee url="https://www.linkedin.com/in/veronika-babii-343b811ab/">
         <last_name>Бабій</last_name>
         <first_name>Вероніка</first_name>
         <second_name>Костянтинівна</second_name>
@@ -52,11 +51,9 @@
         <salary>20000 uah</salary>
         <address>01004, Kyiv,Ukraine</address>
         <e-mail>veronika.babii@ukma.edu.ua</e-mail>
-        <url>
-            <a href="https://www.linkedin.com/in/veronika-babii-343b811ab/">
-                https://www.linkedin.com/in/veronika-babii-343b811ab/
-            </a>
-        </url>
+        <web_address>
+            <a href="https://www.linkedin.com/in/veronika-babii-343b811ab/">Link</a>
+        </web_address>
     </employee>
 
     <employee>
@@ -68,7 +65,7 @@
         <salary>15000 uah</salary>
         <address>12012, Kyiv,Ukraine</address>
         <e-mail>margochemer0200@gmail.com</e-mail>
-        <url> </url>
+        <web_address>-</web_address>
     </employee>
 </employees>
 

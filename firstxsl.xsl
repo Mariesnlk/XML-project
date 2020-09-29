@@ -23,7 +23,7 @@
                         <xsl:sort select="last_name"/>
                         <tr>
                             <td>
-                                <span style="font-style:italic;"><xsl:value-of select="last_name"/></span>
+                                <span style="font-style:italic"><xsl:value-of select="last_name"/></span>
                                 <xsl:text> </xsl:text>
                                 <xsl:value-of select="first_name"/>
                                 <xsl:text> </xsl:text>
@@ -40,7 +40,9 @@
                                 <xsl:value-of select="e-mail"/>
                             </td>
                             <td>
-                                <xsl:value-of select="web_address"/>
+                                <a href="{url}">
+                                    <xsl:value-of select="url"/>
+                                </a>
                             </td>
                         </tr>
                     </xsl:for-each>
@@ -52,3 +54,4 @@
     </xsl:template>
 
 </xsl:stylesheet>
+

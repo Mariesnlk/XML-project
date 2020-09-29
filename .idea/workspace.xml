@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/firstxmlpush.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstxmlpush.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlserverpush.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstxml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstxml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstxsl.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/firstxsl.xsl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +52,7 @@
       <workItem from="1600946393912" duration="700000" />
       <workItem from="1600970553499" duration="17000" />
       <workItem from="1601311372435" duration="3291000" />
-      <workItem from="1601372661801" duration="5075000" />
+      <workItem from="1601372661801" duration="13244000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -78,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601381646580</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added font-weight">
+      <created>1601382656013</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601382656013</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,13 +100,14 @@
     <MESSAGE value="added new files" />
     <MESSAGE value="added sorting last name" />
     <MESSAGE value="added color" />
-    <option name="LAST_COMMIT_MESSAGE" value="added color" />
+    <MESSAGE value="added font-weight" />
+    <option name="LAST_COMMIT_MESSAGE" value="added font-weight" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601381645864">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601382655469">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601381645864" />
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601382655469" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1600944639395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -108,9 +120,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599645066206" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601381654690">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601382701752">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601381654690" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601382701752" />
   </component>
 </project>
