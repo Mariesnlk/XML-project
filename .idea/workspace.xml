@@ -2,19 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/second.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second.xsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstxmlpush.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/firstxmlpush.xsl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hGkLZbF7fYYSshxoX9SZQ1uu3V" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +59,8 @@
       <workItem from="1600946393912" duration="700000" />
       <workItem from="1600970553499" duration="17000" />
       <workItem from="1601311372435" duration="3291000" />
-      <workItem from="1601372661801" duration="17221000" />
+      <workItem from="1601372661801" duration="18695000" />
+      <workItem from="1601399176905" duration="1016000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -113,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601396852028</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added second way of clickable links">
+      <created>1601397350260</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601397350260</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,10 +151,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="added second way of clickable links" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601396851534">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601397349753">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601396851534" />
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601397349753" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1600944639395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -148,9 +167,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599645066206" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601396859235">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601397356809">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601396859235" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601397356809" />
   </component>
 </project>
