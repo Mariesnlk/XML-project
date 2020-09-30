@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="groupingMunch.xsl"?>
+
+<employees>
+
+    <city name="Paris" country="France"/>
+    <employee name="Synelnyk Mariia" subsection = "IT"/>
+    <employee name="Korin Oleksiy" subsection = "IT"/>
+    <employee name="Melnyk OLeg" subsection = "Law"/>
+    <employee name="Babiy Veronika" subsection = "IT"/>
+    <employee name="Chemerenko Margarita" subsection = "HR"/>
+<!--    <employee>-->
+<!--        <last_name>Синельник</last_name>-->
+<!--        <first_name>Марія</first_name>-->
+<!--        <second_name>Сергіївна</second_name>-->
+<!--        <bd_date>08.02.2001</bd_date>-->
+<!--        <subsection>IT</subsection>-->
+<!--        <salary>20000 uah</salary>-->
+<!--        <address>02002, Kyiv,Ukraine</address>-->
+<!--        <e-mail>mariesnlk90@gmail.com</e-mail>-->
+<!--        <url>-->
+<!--            &lt;!&ndash;this url has always http 400 error&ndash;&gt;-->
+<!--            <a href="https://www.linkedin.com/in/mariia-synelnyk-6815601a0/">-->
+<!--                https://www.linkedin.com/in/mariia-synelnyk-6815601a0/-->
+<!--            </a>-->
+<!--        </url>-->
+<!--    </employee>-->
+
+<!--    <employee>-->
+<!--        <last_name>Корінь</last_name>-->
+<!--        <first_name>Олексій</first_name>-->
+<!--        <second_name>Андрійович</second_name>-->
+<!--        <bd_date>27.04.1996</bd_date>-->
+<!--        <subsection>IT</subsection>-->
+<!--        <salary>20000 uah</salary>-->
+<!--        <address>02002, Kyiv,Ukraine</address>-->
+<!--        <e-mail>oleksiyKor@gmail.com</e-mail>-->
+<!--        <url></url>-->
+<!--    </employee>-->
+
+<!--    <employee>-->
+<!--        <last_name>Мельник</last_name>-->
+<!--        <first_name>Олег</first_name>-->
+<!--        <second_name>Сергійович</second_name>-->
+<!--        <bd_date>13.09.1998</bd_date>-->
+<!--        <subsection>Law</subsection>-->
+<!--        <salary>15000 uah</salary>-->
+<!--        <address>03015, Kyiv,Ukraine</address>-->
+<!--        <e-mail>melnykoleg89@gmail.com</e-mail>-->
+<!--        <url></url>-->
+<!--    </employee>-->
+
+<!--    <employee>-->
+<!--        <last_name>Бабій</last_name>-->
+<!--        <first_name>Вероніка</first_name>-->
+<!--        <second_name>Костянтинівна</second_name>-->
+<!--        <bd_date>07.01.2001</bd_date>-->
+<!--        <subsection>IT</subsection>-->
+<!--        <salary>20000 uah</salary>-->
+<!--        <address>01004, Kyiv,Ukraine</address>-->
+<!--        <e-mail>veronika.babii@ukma.edu.ua</e-mail>-->
+<!--        <url>-->
+<!--            <a href="https://www.google.com.ua/?hl=ru">-->
+<!--                https://www.google.com.ua/?hl=ru-->
+<!--            </a>-->
+<!--        </url>-->
+<!--    </employee>-->
+
+<!--    <employee>-->
+<!--        <last_name>Чемеренко</last_name>-->
+<!--        <first_name>Маргарита</first_name>-->
+<!--        <second_name>Ігорівна</second_name>-->
+<!--        <bd_date>12.12.2000</bd_date>-->
+<!--        <subsection>Hr</subsection>-->
+<!--        <salary>15000 uah</salary>-->
+<!--        <address>12012, Kyiv,Ukraine</address>-->
+<!--        <e-mail>margochemer0200@gmail.com</e-mail>-->
+<!--        <url></url>-->
+<!--    </employee>-->
+</employees>
+

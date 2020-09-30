@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pushProcessing.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groupingMunch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groupingMunch.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serverGroupingMunch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstxmlpull.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pullProcessing.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstxmlpush.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pushProcessing.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstxmlpush.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstxslpull.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/pullProcessing.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlserverpull.js" beforeDir="false" afterPath="$PROJECT_DIR$/serverPullProcessing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlserverpush.js" beforeDir="false" afterPath="$PROJECT_DIR$/serverPushProcessing.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +62,7 @@
       <workItem from="1601372661801" duration="18695000" />
       <workItem from="1601399176905" duration="1058000" />
       <workItem from="1601454688644" duration="4336000" />
-      <workItem from="1601463615543" duration="2165000" />
+      <workItem from="1601463615543" duration="5185000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -152,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601458515819</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ended push and pull processing">
+      <created>1601465805320</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601465805320</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,13 +173,18 @@
     <MESSAGE value="added second way of clickable links" />
     <MESSAGE value="added second task" />
     <MESSAGE value="added selecting with key task" />
-    <option name="LAST_COMMIT_MESSAGE" value="added selecting with key task" />
+    <MESSAGE value="ended push and pull processing" />
+    <option name="LAST_COMMIT_MESSAGE" value="ended push and pull processing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601458515046">
+    <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601466916031">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601458515046" />
+    <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1601466916031" />
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601465804602">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601465804602" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1600944639395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -189,9 +197,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601455462468" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601458523790">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601465813583">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601458523790" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601465813583" />
   </component>
 </project>
