@@ -8,26 +8,16 @@
                 </title>
             </head>
             <body>
-                <h2>
-                    <span style="color:#ff0000">ЗАРПЛАТИ СПІВРОБІТНИКІВ</span>
-                </h2>
+                <h1 style="color:#ff0000">
+                    ЗАРПЛАТИ СПІВРОБІТНИКІВ
+                </h1>
                 <table border="1">
-                    <tr>
-                        <th>
-                            <span style="color:#008080">ПІБ</span>
-                        </th>
-                        <th>
-                            <span style="color:#008080">Підрозділ</span>
-                        </th>
-                        <th>
-                            <span style="color:#008080">Зарплата</span>
-                        </th>
-                        <th>
-                            <span style="color:#008080">E-mail</span>
-                        </th>
-                        <th>
-                            <span style="color:#008080">WWW</span>
-                        </th>
+                    <tr style="color:#008080; font-weight:bold">
+                        <th>ПІБ</th>
+                        <th>Підрозділ</th>
+                        <th>Зарплата</th>
+                        <th>E-mail</th>
+                        <th>WWW</th>
                     </tr>
                     <xsl:for-each select="employees/employee">
                         <xsl:sort select="last_name"/>
