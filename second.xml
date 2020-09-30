@@ -8,7 +8,7 @@
         <first_name>Марія</first_name>
         <second_name>Сергіївна</second_name>
         <subsection>IT</subsection>
-        <salary>20000 uah</salary>
+        <salary>20000</salary>
     </employee>
 
     <employee>
@@ -16,7 +16,7 @@
         <first_name>Олексій</first_name>
         <second_name>Андрійович</second_name>
         <subsection>IT</subsection>
-        <salary>20000 uah</salary>
+        <salary>20000</salary>
     </employee>
 
     <employee>
@@ -24,7 +24,7 @@
         <first_name>Олег</first_name>
         <second_name>Сергійович</second_name>
         <subsection>Law</subsection>
-        <salary>15000 uah</salary>
+        <salary>15000</salary>
     </employee>
 
     <employee>
@@ -32,7 +32,7 @@
         <first_name>Вероніка</first_name>
         <second_name>Костянтинівна</second_name>
         <subsection>IT</subsection>
-        <salary>20000 uah</salary>
+        <salary>20000</salary>
     </employee>
 
     <employee>
@@ -40,7 +40,7 @@
         <first_name>Маргарита</first_name>
         <second_name>Ігорівна</second_name>
         <subsection>Hr</subsection>
-        <salary>15000 uah</salary>
+        <salary>15000</salary>
     </employee>
 </employees>
 

@@ -2,26 +2,31 @@
 
     <xsl:template match="/">
         <HTML>
+            <head>
+                <title>
+                    <xsl:text> Pull processing </xsl:text>
+                </title>
+            </head>
             <body>
                 <h2>
-                    <span style="color:#ff0000; font-weight:bold">ЗАРПЛАТИ СПІВРОБІТНИКІВ</span>
+                    <span style="color:#ff0000">ЗАРПЛАТИ СПІВРОБІТНИКІВ</span>
                 </h2>
                 <table border="1">
                     <tr>
                         <th>
-                            <span style="color:#008080; font-weight:bold">ПІБ</span>
+                            <span style="color:#008080">ПІБ</span>
                         </th>
                         <th>
-                            <span style="color:#008080; font-weight:bold">Підрозділ</span>
+                            <span style="color:#008080">Підрозділ</span>
                         </th>
                         <th>
-                            <span style="color:#008080; font-weight:bold">Зарплата</span>
+                            <span style="color:#008080">Зарплата</span>
                         </th>
                         <th>
-                            <span style="color:#008080; font-weight:bold">E-mail</span>
+                            <span style="color:#008080">E-mail</span>
                         </th>
                         <th>
-                            <span style="color:#008080; font-weight:bold">WWW</span>
+                            <span style="color:#008080">WWW</span>
                         </th>
                     </tr>
                     <xsl:for-each select="employees/employee">

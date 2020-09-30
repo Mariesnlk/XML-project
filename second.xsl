@@ -2,6 +2,11 @@
 
     <xsl:template match="/">
         <HTML>
+            <head>
+                <title>
+                    <xsl:text> *** </xsl:text>
+                </title>
+            </head>
             <body>
                 <h2>
                     <span style="color:#ff0000">ЗАРПЛАТИ СПІВРОБІТНИКІВ</span>
@@ -19,7 +24,7 @@
                         </th>
                     </tr>
                     <xsl:for-each select="employees/employee">
-                        <xsl:if test="salary>15000">
+                        <xsl:if test="salary&gt;15000">
                             <tr>
                                 <td>
                                     <span style="font-style:italic">
@@ -41,11 +46,8 @@
                         </xsl:if>
                     </xsl:for-each>
                 </table>
-
             </body>
         </HTML>
-
     </xsl:template>
-
 </xsl:stylesheet>
 

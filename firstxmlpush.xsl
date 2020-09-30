@@ -2,6 +2,7 @@
 
     <xsl:template match="/">
         <html>
+            <head><title> <xsl:text> Push processing </xsl:text> </title></head>
             <body>
                 <h2>
                     <span style="color:#ff0000; font-weight:bold">ЗАРПЛАТИ СПІВРОБІТНИКІВ</span>
