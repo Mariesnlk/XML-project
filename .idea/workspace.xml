@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/groupingMunch.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/groupingMunch.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serverGroupingMunch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/personality.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/personality.xsl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,9 @@
       <workItem from="1601372661801" duration="18695000" />
       <workItem from="1601399176905" duration="1058000" />
       <workItem from="1601454688644" duration="4336000" />
-      <workItem from="1601463615543" duration="5185000" />
+      <workItem from="1601463615543" duration="5474000" />
+      <workItem from="1601586230405" duration="11000" />
+      <workItem from="1601838981171" duration="1848000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -155,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601465805320</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added method Munch">
+      <created>1601475551775</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601475551775</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,17 +183,18 @@
     <MESSAGE value="added second task" />
     <MESSAGE value="added selecting with key task" />
     <MESSAGE value="ended push and pull processing" />
-    <option name="LAST_COMMIT_MESSAGE" value="ended push and pull processing" />
+    <MESSAGE value="added method Munch" />
+    <option name="LAST_COMMIT_MESSAGE" value="added method Munch" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601466916031">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1601466916031" />
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601465804602">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601475551203">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601465804602" />
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601475551203" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1600944639395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -197,9 +207,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601455462468" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601465813583">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601475561288">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601465813583" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601475561288" />
   </component>
 </project>
