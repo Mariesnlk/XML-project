@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/personality.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/personality.xsl" afterDir="false" />
-    </list>
+    <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +60,7 @@
       <workItem from="1601463615543" duration="5474000" />
       <workItem from="1601586230405" duration="11000" />
       <workItem from="1601838981171" duration="1848000" />
+      <workItem from="1601841383520" duration="217000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -164,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601475551775</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added personality">
+      <created>1601841568617</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601841568617</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,17 +187,18 @@
     <MESSAGE value="added selecting with key task" />
     <MESSAGE value="ended push and pull processing" />
     <MESSAGE value="added method Munch" />
-    <option name="LAST_COMMIT_MESSAGE" value="added method Munch" />
+    <MESSAGE value="added personality" />
+    <option name="LAST_COMMIT_MESSAGE" value="added personality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601466916031">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1601466916031" />
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601475551203">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601841567664">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601475551203" />
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601841567664" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1600944639395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -207,9 +211,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601455462468" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601475561288">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601841573833">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601475561288" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601841573833" />
   </component>
 </project>
