@@ -3,44 +3,12 @@
 
 <employees>
 
-    <employee>
-        <last_name>Синельник</last_name>
-        <first_name>Марія</first_name>
-        <second_name>Сергіївна</second_name>
-        <subsection>IT</subsection>
-        <salary>20000</salary>
-    </employee>
+    <employee name="Синельник Марія Сергіївна" salary="20000"/>
+    <employee name="Корінь Олексій Андрійович" salary="20500"/>
+    <employee name="Мельник Олег Сергійович" salary="21100"/>
+    <employee name="Бабій Вероніка Констянтинівна" salary="19700"/>
+    <employee name="Чемеренко Маргарита Ігорівна" salary="15000"/>
+    <employee name="Петренко Ярослав Владиславович" salary="21200"/>
 
-    <employee>
-        <last_name>Корінь</last_name>
-        <first_name>Олексій</first_name>
-        <second_name>Андрійович</second_name>
-        <subsection>IT</subsection>
-        <salary>20000</salary>
-    </employee>
-
-    <employee>
-        <last_name>Мельник</last_name>
-        <first_name>Олег</first_name>
-        <second_name>Сергійович</second_name>
-        <subsection>Law</subsection>
-        <salary>15000</salary>
-    </employee>
-
-    <employee>
-        <last_name>Бабій</last_name>
-        <first_name>Вероніка</first_name>
-        <second_name>Костянтинівна</second_name>
-        <subsection>IT</subsection>
-        <salary>20000</salary>
-    </employee>
-
-    <employee>
-        <last_name>Чемеренко</last_name>
-        <first_name>Маргарита</first_name>
-        <second_name>Ігорівна</second_name>
-        <subsection>Hr</subsection>
-        <salary>15000</salary>
-    </employee>
 </employees>
 
