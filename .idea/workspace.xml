@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
+    <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="added correctly personality">
+      <change afterPath="$PROJECT_DIR$/Lab4/groupingMunch.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trans.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Trans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupingMunch.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupingMunch.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/groupingMunch.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/personality.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personality.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/personality.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personalityOut.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/personalityOut.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pullProcessing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/pullProcessing.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pullProcessing.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/pullProcessing.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushProcessing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/pushProcessing.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushProcessing.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/pushProcessing.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverGroupingMunch.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/serverGroupingMunch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverPullProcessing.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/serverPullProcessing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverPushProcessing.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/serverPushProcessing.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +50,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Марія\WebstormProjects\XML-project\Lab4" />
+      <recent name="C:\Users\Марія\WebstormProjects\XML-project\Lab2" />
+      <recent name="C:\Users\Марія\WebstormProjects\XML-project\Lab1" />
       <recent name="C:\Users\Марія\WebstormProjects\XML-project" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марія\WebstormProjects\XML-project\.idea" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,6 +85,13 @@
       <workItem from="1601841383520" duration="217000" />
       <workItem from="1601841656779" duration="29000" />
       <workItem from="1601910377567" duration="25000" />
+      <workItem from="1601992597602" duration="313000" />
+      <workItem from="1601993922973" duration="22000" />
+      <workItem from="1602705814018" duration="128000" />
+      <workItem from="1602772145071" duration="34000" />
+      <workItem from="1602789563082" duration="129000" />
+      <workItem from="1602857321495" duration="55000" />
+      <workItem from="1603095415506" duration="4514000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -178,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601841670443</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added correctly personality">
+      <created>1601992885191</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601992885191</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,21 +233,22 @@
     <MESSAGE value="ended push and pull processing" />
     <MESSAGE value="added method Munch" />
     <MESSAGE value="added personality" />
-    <option name="LAST_COMMIT_MESSAGE" value="added personality" />
+    <MESSAGE value="added correctly personality" />
+    <option name="LAST_COMMIT_MESSAGE" value="added correctly personality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601466916031">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1601466916031" />
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1601841669838">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1603096365039">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601841669838" />
-    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1600944639395">
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603096365039" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1601993937098">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600944639395" />
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601993937098" />
     <state x="417" y="43" key="RollbackChangesDialog" timestamp="1601379621946">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -222,9 +257,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601455462468" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601841677069">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601992896846">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601841677069" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601992896846" />
   </component>
 </project>

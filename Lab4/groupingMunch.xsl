@@ -11,6 +11,7 @@
                               select="employees/employee[generate-id(.)=generate-id(key('keysearch',@subsection))]/@subsection"/>
 
                 <xsl:for-each select="$uniques">
+                    <br/>
                     <b>
                         <xsl:value-of select="."/>
                     </b>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="groupingMunch.xsl"?>
+
+<employees>
+    <employee name="Olivia Smith" subsection="IT"/>
+    <employee name="Samuel Adamson" subsection="IT"/>
+    <employee name="Jack Aldridge" subsection="Law"/>
+    <employee name="Amelia Brown" subsection="IT"/>
+    <employee name="Emily Walker" subsection="HR"/>
+    <employee name="Harry Johnson" subsection="Law"/>
+    <employee name="Lily King" subsection="IT"/>
+    <employee name="Isabella Lewis" subsection="HR"/>
+    <employee name="George Wilson" subsection="IT"/>
+    <employee name="Connor Ellington" subsection="IT"/>
+</employees>
+
