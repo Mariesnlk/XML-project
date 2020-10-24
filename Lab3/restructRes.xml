@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="resctuct.xsl"?><squad>
+    <date date="2015-09-01"/>
+    <hour hour="08:30"/>
+    <to to="Tove"/>
+    <from from="Jani"/>
+    <body body="Don't forget me this weekend!"/>
+
+    <competitionId competitionId="12345"/>
+    <contestantId contestantId="1234"/>
+    <person>
+        <firstName firstName="Abc"/>
+        <lastName lastName="Fgh"/>
+        <middleName middleName="No"/>
+        <id><name>id</name>1</id>
+    </person>
+    <person>
+        <firstName firstName="Dcb"/>
+        <lastName lastName="Has"/>
+        <middleName middleName="Nom"/>
+        <id><name>1</name>
+            <id-id id-id="2.1"/>
+        </id>
+    </person>
+</squad>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="resctuct.xsl"?>
+
+<squad>
+    <date>2015-09-01</date>
+    <hour>08:30</hour>
+    <to>Tove</to>
+    <from>Jani</from>
+    <body>Don't forget me this weekend!</body>
+
+    <competitionId>12345</competitionId>
+    <contestantId>1234</contestantId>
+    <person>
+        <firstName>Abc</firstName>
+        <lastName>Fgh</lastName>
+        <middleName>No</middleName>
+        <id name="id">1</id>
+    </person>
+    <person>
+        <firstName>Dcb</firstName>
+        <lastName>Has</lastName>
+        <middleName>Nom</middleName>
+        <id name="1">
+            <id-id>2.1</id-id>
+        </id>
+    </person>
+</squad>
