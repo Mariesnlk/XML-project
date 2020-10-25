@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab3/Restruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/restruct.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/restruct.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/restructRes.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/meow" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -90,7 +86,8 @@
       <workItem from="1603095415506" duration="4681000" />
       <workItem from="1603107508676" duration="8000" />
       <workItem from="1603530818645" duration="3702000" />
-      <workItem from="1603537086988" duration="2970000" />
+      <workItem from="1603537086988" duration="3196000" />
+      <workItem from="1603628102342" duration="1020000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -218,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603100157810</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added expand and collapse xslt">
+      <created>1603541315130</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1603541315130</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,21 +245,22 @@
     <MESSAGE value="added personality" />
     <MESSAGE value="added correctly personality" />
     <MESSAGE value="muenchian grouping" />
-    <option name="LAST_COMMIT_MESSAGE" value="muenchian grouping" />
+    <MESSAGE value="added expand and collapse xslt" />
+    <option name="LAST_COMMIT_MESSAGE" value="added expand and collapse xslt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601466916031">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1601466916031" />
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1603100157178">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1603541314510">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603100157178" />
-    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1601993937098">
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603541314510" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1603629122339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601993937098" />
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603629122339" />
     <state x="417" y="43" key="RollbackChangesDialog" timestamp="1601379621946">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -264,9 +269,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601455462468" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603100164269">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603541321352">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603100164269" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603541321352" />
   </component>
 </project>
