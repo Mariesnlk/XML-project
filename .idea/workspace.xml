@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab5/OperationsConfiuration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/pullProcessing.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/pullProcessing.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/pushProcessing.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/pushProcessing.xsl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,10 @@
       <workItem from="1603530818645" duration="3702000" />
       <workItem from="1603537086988" duration="3196000" />
       <workItem from="1603628102342" duration="1020000" />
-      <workItem from="1603656168075" duration="2987000" />
+      <workItem from="1603656168075" duration="3086000" />
+      <workItem from="1603698351533" duration="5000" />
+      <workItem from="1603881208783" duration="3862000" />
+      <workItem from="1603907207042" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -231,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603656244718</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="fucking done">
+      <created>1603662030000</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1603662030000</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,17 +267,18 @@
     <MESSAGE value="muenchian grouping" />
     <MESSAGE value="added expand and collapse xslt" />
     <MESSAGE value="added practice task" />
-    <option name="LAST_COMMIT_MESSAGE" value="added practice task" />
+    <MESSAGE value="fucking done" />
+    <option name="LAST_COMMIT_MESSAGE" value="fucking done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603661918880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1603661918880" />
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1603656244120">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1603662029402">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603656244120" />
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603662029402" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1603629122339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -279,9 +291,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601455462468" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603656251529">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603662037803">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603656251529" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603662037803" />
   </component>
 </project>

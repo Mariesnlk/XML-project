@@ -43,16 +43,16 @@
                             </td>
                             <td>
                                 <!--first way adding link-->
-                                <a href="{url}">
-                                    <xsl:value-of select="url"/>
-                                </a>
+<!--                                <a href="{url}">-->
+<!--                                    <xsl:value-of select="url"/>-->
+<!--                                </a>-->
                                 <!--second way adding link-->
-                                <!--                                <xsl:element name="a">-->
-                                <!--                                    <xsl:attribute name="href">-->
-                                <!--                                        <xsl:value-of select="url"/>-->
-                                <!--                                    </xsl:attribute>-->
-                                <!--                                    <xsl:value-of select="url"/>-->
-                                <!--                                </xsl:element>-->
+                                <xsl:element name="a">
+                                    <xsl:attribute name="href">
+                                        <xsl:value-of select="url"/>
+                                    </xsl:attribute>
+                                    <xsl:value-of select="url"/>
+                                </xsl:element>
                             </td>
                         </tr>
                     </xsl:for-each>
