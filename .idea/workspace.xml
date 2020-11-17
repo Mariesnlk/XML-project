@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab6/MyParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/inherinttypes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/inherinttypes.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabRESTful/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabRESTful/xmlToJson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabRegisterEX/registerEx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabRegisterEX/registerEx.xsd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/inherinttypes.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/inherinttypes.xsd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/meow" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LabRESTful" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,15 +46,26 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марія\WebstormProjects\XML-project\LabRESTful" />
+      <recent name="C:\Users\Марія\WebstormProjects\XML-project\.idea" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Марія\WebstormProjects\XML-project\Lab4" />
       <recent name="C:\Users\Марія\WebstormProjects\XML-project\Lab2" />
       <recent name="C:\Users\Марія\WebstormProjects\XML-project\Lab1" />
       <recent name="C:\Users\Марія\WebstormProjects\XML-project" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Марія\WebstormProjects\XML-project\.idea" />
-    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="xmlToJson.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LabRESTful/xmlToJson.js" working-dir="$PROJECT_DIR$/LabRESTful">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.xmlToJson.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -99,6 +111,13 @@
       <workItem from="1604443005435" duration="192000" />
       <workItem from="1604567561527" duration="10000" />
       <workItem from="1605023424279" duration="1316000" />
+      <workItem from="1605027112921" duration="209000" />
+      <workItem from="1605027969766" duration="5000" />
+      <workItem from="1605090819871" duration="91000" />
+      <workItem from="1605091087372" duration="1155000" />
+      <workItem from="1605263076850" duration="50000" />
+      <workItem from="1605540886997" duration="418000" />
+      <workItem from="1605640116331" duration="3994000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -254,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604443029405</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="added schema exercise">
+      <created>1605027180406</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605027180406</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,21 +307,38 @@
     <MESSAGE value="added practice task" />
     <MESSAGE value="fucking done" />
     <MESSAGE value="added xpath" />
-    <option name="LAST_COMMIT_MESSAGE" value="added xpath" />
+    <MESSAGE value="added schema exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="added schema exercise" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603661918880">
+    <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605090852537">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1603661918880" />
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1604443028743">
+    <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1605090852537" />
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1605027179723">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1604443028743" />
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1605027179723" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1603629122339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603629122339" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1605092243324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605092243324" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1605092243324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605092243324" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1605092243324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605092243324" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1605092243324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605092243324" />
     <state x="417" y="43" key="RollbackChangesDialog" timestamp="1601379621946">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -304,9 +347,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601455462468" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604443035899">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605027190314">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604443035899" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605027190314" />
   </component>
 </project>
