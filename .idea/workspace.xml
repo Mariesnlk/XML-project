@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1620be9-067b-42eb-a124-6423e46c4b18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LabRegisterEX/MyParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabRegisterEX/Validator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LabRegisterEX/registerEx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LabRegisterEX/registerEx.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LabRegisterEX/registerEx.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/LabRegisterEX/registerEx.xsd" afterDir="false" />
@@ -123,7 +121,10 @@
       <workItem from="1605706215386" duration="1368000" />
       <workItem from="1605717320378" duration="31000" />
       <workItem from="1605720839038" duration="308000" />
-      <workItem from="1605721322966" duration="1408000" />
+      <workItem from="1605721322966" duration="1904000" />
+      <workItem from="1605728279160" duration="470000" />
+      <workItem from="1605729152866" duration="46000" />
+      <workItem from="1605729896045" duration="1582000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1600944934417</created>
@@ -293,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605644316182</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added validator to check">
+      <created>1605722785242</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605722785243</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,37 +331,38 @@
     <MESSAGE value="added xpath" />
     <MESSAGE value="added schema exercise" />
     <MESSAGE value="added register of ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="added register of ex" />
+    <MESSAGE value="added validator to check" />
+    <option name="LAST_COMMIT_MESSAGE" value="added validator to check" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605721946499">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1605721946499" />
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1605644315452">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1605722784567">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1605644315452" />
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1605722784567" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1603629122339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603629122339" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1605722019089">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1605723264904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605722019089" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1605722019088">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605723264904" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1605723264903">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605722019088" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1605722019088">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605723264903" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1605723264903">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605722019088" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1605722019088">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605723264903" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1605723264904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605722019088" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605723264904" />
     <state x="417" y="43" key="RollbackChangesDialog" timestamp="1601379621946">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -362,10 +371,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605717348519" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605644327335">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605722791452">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605644327335" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605722791452" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1605721900842">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

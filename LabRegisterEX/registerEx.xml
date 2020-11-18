@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<registerEX orderid="889923" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="registerEx.xsd">
+<registerEX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="registerEx.xsd">
     <man>
         <initials>Melnyk Oleksandr Andriyovych</initials>
         <status>ex</status>
@@ -8,13 +8,16 @@
         <color_of_eyes>blue</color_of_eyes>
         <height>182</height>
     </man>
-    <man>
+    <man xsi:type="ex">
         <initials>Kovalenko Mykhailo Igorovich</initials>
         <status>ex</status>
         <email>mykhailo@gmail.com</email>
         <color_of_hair>blond</color_of_hair>
         <color_of_eyes>green</color_of_eyes>
         <height>185</height>
+        <date_marriage>2017-12-07</date_marriage>
+        <date_divorce>2019-03-08</date_divorce>
+        <reason_divorce>unknown</reason_divorce>
     </man>
     <man>
         <initials>Tkachenko Andrii Oleksiyovich</initials>
@@ -24,13 +27,14 @@
         <color_of_eyes>blue</color_of_eyes>
         <height>186</height>
     </man>
-    <man>
+    <man xsi:type="current">
         <initials>Kovalchuk Andrii Olegovich</initials>
         <status>current</status>
         <email>kovalchuchka@gmail.com</email>
         <color_of_hair>brown</color_of_hair>
         <color_of_eyes>green</color_of_eyes>
         <height>180</height>
+        <date_marriage>2020-12-02</date_marriage>
     </man>
     <man>
         <initials>Koval Ihor Andriyovich</initials>
@@ -40,13 +44,14 @@
         <color_of_eyes>gray</color_of_eyes>
         <height>185</height>
     </man>
-    <man>
+    <man xsi:type="future">
         <initials>Oliinyk Oleg Sergitovich</initials>
         <status>future</status>
         <email>oleg.oliinykchek@gmail.com</email>
         <color_of_hair>blond</color_of_hair>
         <color_of_eyes>green</color_of_eyes>
         <height>179</height>
+        <attractiveness> 92</attractiveness>
     </man>
     <man>
         <initials>Moroz Artem Vladuslavovich</initials>
@@ -56,13 +61,14 @@
         <color_of_eyes>blue</color_of_eyes>
         <height>181</height>
     </man>
-    <man>
+    <man xsi:type="future">
         <initials>Kostiuk Illia Ruslanovych</initials>
         <status>future</status>
         <email>hi_welcom_home@ukr.net</email>
         <color_of_hair>black</color_of_hair>
         <color_of_eyes>blue</color_of_eyes>
         <height>179</height>
+        <attractiveness>87</attractiveness>
     </man>
     <man>
         <initials>Boiko Andrii Oleksandrovych</initials>
