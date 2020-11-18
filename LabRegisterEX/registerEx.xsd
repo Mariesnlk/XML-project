@@ -17,14 +17,16 @@
                             <xs:element name="status">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
-                                        <xs:pattern value="ex|current|future"/>
+                                        <xs:enumeration value="ex"/>
+                                        <xs:enumeration value="current"/>
+                                        <xs:enumeration value="future"/>
                                     </xs:restriction>
                                 </xs:simpleType>
                             </xs:element>
                             <xs:element name="email">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
-                                        <xs:pattern value="([0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})"/>
+                                        <xs:pattern value="([0-9a-zA-Z]([-_.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-_\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})"/>
                                     </xs:restriction>
                                 </xs:simpleType>
                             </xs:element>

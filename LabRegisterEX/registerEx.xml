@@ -1,75 +1,75 @@
 <?xml version="1.0"?>
 <registerEX orderid="889923" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="registerEx.xsd">
     <man>
-        <initials>Bogdan Andriy Shon</initials>
+        <initials>Melnyk Oleksandr Andriyovych</initials>
         <status>ex</status>
-        <email>sdfgh@gmail.com</email>
+        <email>melnykxxl@gmail.com</email>
         <color_of_hair>blond</color_of_hair>
         <color_of_eyes>blue</color_of_eyes>
+        <height>182</height>
+    </man>
+    <man>
+        <initials>Kovalenko Mykhailo Igorovich</initials>
+        <status>ex</status>
+        <email>mykhailo@gmail.com</email>
+        <color_of_hair>blond</color_of_hair>
+        <color_of_eyes>green</color_of_eyes>
+        <height>185</height>
+    </man>
+    <man>
+        <initials>Tkachenko Andrii Oleksiyovich</initials>
+        <status>ex</status>
+        <email>andrtkach@gmail.com</email>
+        <color_of_hair>black</color_of_hair>
+        <color_of_eyes>blue</color_of_eyes>
+        <height>186</height>
+    </man>
+    <man>
+        <initials>Kovalchuk Andrii Olegovich</initials>
+        <status>current</status>
+        <email>kovalchuchka@gmail.com</email>
+        <color_of_hair>brown</color_of_hair>
+        <color_of_eyes>green</color_of_eyes>
         <height>180</height>
     </man>
     <man>
-        <initials>Ola Nordmann</initials>
+        <initials>Koval Ihor Andriyovich</initials>
         <status>ex</status>
-        <email>sdfgh@gmail.com</email>
+        <email>Koval_Ihor@gmail.com</email>
         <color_of_hair>blond</color_of_hair>
-        <color_of_eyes>blue</color_of_eyes>
-        <height>180</height>
+        <color_of_eyes>gray</color_of_eyes>
+        <height>185</height>
     </man>
     <man>
-        <initials>Ola Nordmann</initials>
-        <status>ex</status>
-        <email>sdfgh@gmail.com</email>
+        <initials>Oliinyk Oleg Sergitovich</initials>
+        <status>future</status>
+        <email>oleg.oliinykchek@gmail.com</email>
         <color_of_hair>blond</color_of_hair>
-        <color_of_eyes>blue</color_of_eyes>
-        <height>180</height>
+        <color_of_eyes>green</color_of_eyes>
+        <height>179</height>
     </man>
     <man>
-        <initials>Ola Nordmann</initials>
-        <status>ex</status>
-        <email>sdfgh@gmail.com</email>
-        <color_of_hair>blond</color_of_hair>
+        <initials>Moroz Artem Vladuslavovich</initials>
+        <status>future</status>
+        <email>moroz.artem@gmail.com</email>
+        <color_of_hair>brown</color_of_hair>
         <color_of_eyes>blue</color_of_eyes>
-        <height>180</height>
+        <height>181</height>
     </man>
     <man>
-        <initials>Ola Nordmann</initials>
-        <status>ex</status>
-        <email>sdfgh@gmail.com</email>
-        <color_of_hair>blond</color_of_hair>
+        <initials>Kostiuk Illia Ruslanovych</initials>
+        <status>future</status>
+        <email>hi_welcom_home@ukr.net</email>
+        <color_of_hair>black</color_of_hair>
         <color_of_eyes>blue</color_of_eyes>
-        <height>180</height>
+        <height>179</height>
     </man>
     <man>
-        <initials>Ola Nordmann</initials>
-        <status>ex</status>
-        <email>sdfgh@gmail.com</email>
+        <initials>Boiko Andrii Oleksandrovych</initials>
+        <status>future</status>
+        <email>andr.boiko@gmail.com</email>
         <color_of_hair>blond</color_of_hair>
-        <color_of_eyes>blue</color_of_eyes>
-        <height>180</height>
-    </man>
-    <man>
-        <initials>Ola Nordmann</initials>
-        <status>ex</status>
-        <email>sdfgh@gmail.com</email>
-        <color_of_hair>blond</color_of_hair>
-        <color_of_eyes>blue</color_of_eyes>
-        <height>180</height>
-    </man>
-    <man>
-        <initials>Ola Nordmann</initials>
-        <status>ex</status>
-        <email>sdfgh@gmail.com</email>
-        <color_of_hair>blond</color_of_hair>
-        <color_of_eyes>blue</color_of_eyes>
-        <height>180</height>
-    </man>
-    <man>
-        <initials>Ola Nordmann</initials>
-        <status>ex</status>
-        <email>sdfgh@gmail.com</email>
-        <color_of_hair>blond</color_of_hair>
-        <color_of_eyes>blue</color_of_eyes>
-        <height>180</height>
+        <color_of_eyes>gray</color_of_eyes>
+        <height>181</height>
     </man>
 </registerEX>
