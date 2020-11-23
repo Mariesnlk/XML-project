@@ -1,12 +1,14 @@
 <?xml version="1.0"?>
 <registerEX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="registerEx.xsd">
-    <man>
+    <man xsi:type="ex">
         <initials>Melnyk Oleksandr Andriyovych</initials>
         <status>ex</status>
         <email>melnykxxl@gmail.com</email>
         <color_of_hair>blond</color_of_hair>
         <color_of_eyes>blue</color_of_eyes>
         <height>182</height>
+        <date_marriage>2016-02-03</date_marriage>
+        <date_divorce>2017-12-01</date_divorce>
     </man>
     <man xsi:type="ex">
         <initials>Kovalenko Mykhailo Igorovich</initials>
@@ -19,13 +21,15 @@
         <date_divorce>2019-03-08</date_divorce>
         <reason_divorce>unknown</reason_divorce>
     </man>
-    <man>
+    <man xsi:type="ex">
         <initials>Tkachenko Andrii Oleksiyovich</initials>
         <status>ex</status>
         <email>andrtkach@gmail.com</email>
         <color_of_hair>black</color_of_hair>
         <color_of_eyes>blue</color_of_eyes>
         <height>186</height>
+        <date_marriage>2019-11-06</date_marriage>
+        <date_divorce>2020-10-08</date_divorce>
     </man>
     <man xsi:type="current">
         <initials>Kovalchuk Andrii Olegovich</initials>
@@ -36,13 +40,16 @@
         <height>180</height>
         <date_marriage>2020-12-02</date_marriage>
     </man>
-    <man>
+    <man xsi:type="ex">
         <initials>Koval Ihor Andriyovich</initials>
         <status>ex</status>
         <email>Koval_Ihor@gmail.com</email>
         <color_of_hair>blond</color_of_hair>
         <color_of_eyes>gray</color_of_eyes>
         <height>185</height>
+        <date_marriage>2014-02-06</date_marriage>
+        <date_divorce>2015-01-05</date_divorce>
+        <reason_divorce>bad husband</reason_divorce>
     </man>
     <man xsi:type="future">
         <initials>Oliinyk Oleg Sergitovich</initials>
@@ -53,7 +60,7 @@
         <height>179</height>
         <attractiveness> 92</attractiveness>
     </man>
-    <man>
+    <man xsi:type="future">
         <initials>Moroz Artem Vladuslavovich</initials>
         <status>future</status>
         <email>moroz.artem@gmail.com</email>
@@ -70,7 +77,7 @@
         <height>179</height>
         <attractiveness>87</attractiveness>
     </man>
-    <man>
+    <man xsi:type="future">
         <initials>Boiko Andrii Oleksandrovych</initials>
         <status>future</status>
         <email>andr.boiko@gmail.com</email>

@@ -62,7 +62,7 @@
                 <xs:sequence>
                     <xs:element name="date_marriage" type="xs:date"/>
                     <xs:element name="date_divorce" type="xs:date"/>
-                    <xs:element name="reason_divorce" type="xs:string"/>
+                    <xs:element name="reason_divorce" type="xs:string" minOccurs="0"/>
                 </xs:sequence>
             </xs:extension>
         </xs:complexContent>
@@ -82,7 +82,7 @@
         <xs:complexContent>
             <xs:extension base="man">
                 <xs:sequence>
-                    <xs:element name="attractiveness" type="xs:integer"/>
+                    <xs:element name="attractiveness" type="xs:integer" minOccurs="0"/>
                 </xs:sequence>
             </xs:extension>
         </xs:complexContent>
